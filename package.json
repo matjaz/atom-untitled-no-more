@@ -1,0 +1,12 @@
+{
+  "name": "untitled-no-more",
+  "main": "./lib/untitled-no-more",
+  "version": "0.0.0",
+  "description": "Remove the \"untitled\" file when opening Atom",
+  "repository": "https://github.com/frxstrem/atom-untitled-no-more",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {}
+}
